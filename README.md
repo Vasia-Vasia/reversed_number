@@ -2,6 +2,6 @@
 
 Примеры:
 
-reverseInt(13); // 31
-reverseInt(-123); // -321
+reverseInt(13); // 31  
+reverseInt(-123); // -321  
 reverseInt(8900); // 98
